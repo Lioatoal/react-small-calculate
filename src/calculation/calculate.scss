@@ -1,0 +1,31 @@
+.dataView {
+  width: 250px;
+  display: flex;
+
+  .anticon{
+    transform: rotate(90deg);
+  }
+
+  .ant-input {
+    color: black;
+    text-align: right;
+  }
+}
+
+.history {
+  width: 250px;
+  height: 26px;
+  color: #cccccc;
+}
+
+.dataButton {
+  width: 250px;
+
+  .ant-input{
+    height: 20px;
+  }
+
+  .ant-btn{
+    width: 25%
+  }
+}
